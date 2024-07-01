@@ -1,1 +1,0 @@
-const pair = "Good Dev";
