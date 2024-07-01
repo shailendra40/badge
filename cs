@@ -1,1 +1,1 @@
-const pair = "Good Developer";
+const pair = "Good Dev";
