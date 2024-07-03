@@ -1,2 +1,2 @@
 // the hello sly program
-console.log('Hello, SLy');
+console.log('Hello, SLy yu');
